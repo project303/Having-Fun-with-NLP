@@ -1,8 +1,14 @@
 # Having Fun with NLP
 
 ## Text Mining 301
-1. [wortschatz.uni-leipzig.de](https://wortschatz.uni-leipzig.de/en/download/indonesian) - Kumpulan berita, artikel, artikel dari berbagai web berita, wikipedia tahun 2008-2016
+1. [Lab01 - Installation and Config](https://github.com/project303/Having-Fun-with-NLP/blob/main/Lab01%20-%20Installation%20and%20Config.ipynb)
+2. [Lab02 - Tokenization and Cleansing](https://github.com/project303/Having-Fun-with-NLP/blob/main/Lab02%20-%20Tokenization%20and%20Cleansing.ipynb)
+3. [Lab03 - Stop Words Removal](https://github.com/project303/Having-Fun-with-NLP/blob/main/Lab03%20-%20Stop%20Words%20Removal.ipynb)
+4. [Lab04 - Stemming](https://github.com/project303/Having-Fun-with-NLP/blob/main/Lab04%20-%20Stemming.ipynb)
+5. [Lab05 - TF-IDF](https://github.com/project303/Having-Fun-with-NLP/blob/main/Lab05%20-%20TF-IDF.ipynb)
+6. [Lab06 - Text Clustering - Putting It All Together](https://github.com/project303/Having-Fun-with-NLP/blob/main/Lab06%20-%20Text%20Clustering%20-%20Putting%20It%20All%20Together.ipynb)
 
+   
 ## Resources untuk NLP bahasa Indonesia
 1. [wortschatz.uni-leipzig.de](https://wortschatz.uni-leipzig.de/en/download/indonesian) - Kumpulan berita, artikel, artikel dari berbagai web berita, wikipedia tahun 2008-2016
 2. [tanzil.net](http://tanzil.net/trans/id.indonesian) - Terjemahan Al Quran
