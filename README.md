@@ -1,6 +1,7 @@
 # Having Fun with NLP
 
-
+## Text Mining 301
+1. [wortschatz.uni-leipzig.de](https://wortschatz.uni-leipzig.de/en/download/indonesian) - Kumpulan berita, artikel, artikel dari berbagai web berita, wikipedia tahun 2008-2016
 
 ## Resources untuk NLP bahasa Indonesia
 1. [wortschatz.uni-leipzig.de](https://wortschatz.uni-leipzig.de/en/download/indonesian) - Kumpulan berita, artikel, artikel dari berbagai web berita, wikipedia tahun 2008-2016
