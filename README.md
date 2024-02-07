@@ -30,5 +30,6 @@ Link presentasi:
 14. [Louis Owen](https://github.com/louisowen6/NLP_bahasa_resources) - Kumpulan resources NLP bahasa Indonesia terkurasi
 15. [Ismail Fahmi](https://youtu.be/scJVTJZe_yw) - Inside Drone Emprit: Natural Processing, Sentiment Analysis, Emotion Analysis
 16. [Hate Speech Data](https://hatespeechdata.com)
+17. [The Seven Practice Areas of Text Analytics](https://www.elderresearch.com/wp-content/uploads/2020/10/Whitepaper_The_Seven_Practice_Areas_of_Text_Analytics_Chapter_2_Excerpt.pdf) - The seven text mining practice areas exist at the major intersections of text mining with its six related fields
 
 
