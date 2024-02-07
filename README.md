@@ -8,6 +8,9 @@
 5. [Lab05 - TF-IDF](https://github.com/project303/Having-Fun-with-NLP/blob/main/Lab05%20-%20TF-IDF.ipynb)
 6. [Lab06 - Text Clustering - Putting It All Together](https://github.com/project303/Having-Fun-with-NLP/blob/main/Lab06%20-%20Text%20Clustering%20-%20Putting%20It%20All%20Together.ipynb)
 
+
+Link presentasi:
+1. [Presentasi](https://www.dropbox.com/s/1446f7jbo7kdvjs/5.%20A.%20Text%20Mining%20-%20student%20-%201.0.7.pdf?dl=0)
    
 ## Resources untuk NLP bahasa Indonesia
 1. [wortschatz.uni-leipzig.de](https://wortschatz.uni-leipzig.de/en/download/indonesian) - Kumpulan berita, artikel, artikel dari berbagai web berita, wikipedia tahun 2008-2016
