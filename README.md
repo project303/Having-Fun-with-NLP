@@ -10,7 +10,7 @@
 
 
 Link presentasi:
-1. [Presentasi](https://www.dropbox.com/s/1446f7jbo7kdvjs/5.%20A.%20Text%20Mining%20-%20student%20-%201.0.7.pdf?dl=0)
+1. [Presentasi](https://www.dropbox.com/s/1446f7jbo7kdvjsxyz/5.%20A.%20Text%20Mining%20-%20student%20-%201.0.7.pdf?dl=0)
    
 ## Resources untuk NLP bahasa Indonesia
 1. [wortschatz.uni-leipzig.de](https://wortschatz.uni-leipzig.de/en/download/indonesian) - Kumpulan berita, artikel, artikel dari berbagai web berita, wikipedia tahun 2008-2016
