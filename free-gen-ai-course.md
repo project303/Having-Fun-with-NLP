@@ -1,5 +1,5 @@
-#### :book: List of Free GenAI Courses
-##### LLM Basics and Foundations
+## :book: List of Free GenAI Courses
+#### LLM Basics and Foundations
 
 1. [Large Language Models](https://rycolab.io/classes/llm-s23/) by ETH Zurich
 
@@ -24,7 +24,7 @@
 
 
 
-##### Building LLM Applications
+#### Building LLM Applications
 
 1. [LLMOps: Building Real-World Applications With Large Language Models](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455) by Udacity
 
