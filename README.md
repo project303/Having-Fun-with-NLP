@@ -33,6 +33,6 @@ Link presentasi:
 17. [The Seven Practice Areas of Text Analytics](https://www.elderresearch.com/wp-content/uploads/2020/10/Whitepaper_The_Seven_Practice_Areas_of_Text_Analytics_Chapter_2_Excerpt.pdf) - The seven text mining practice areas exist at the major intersections of text mining with its six related fields
 
 ## Free Course
-1. [tanzil.net](http://tanzil.net/trans/id.indonesian) - Free LLM Courses
+1. [Free LLM Course](https://github.com/project303/Having-Fun-with-NLP/blob/main/free-gen-ai-course.md) - Free LLM Courses
 
 
