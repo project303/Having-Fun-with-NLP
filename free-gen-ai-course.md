@@ -1,4 +1,4 @@
-## :book: List of Free GenAI Courses
+## :book: List of Free LLM Courses
 #### LLM Basics and Foundations
 
 1. [Large Language Models](https://rycolab.io/classes/llm-s23/) by ETH Zurich
