@@ -35,4 +35,10 @@ Link presentasi:
 ## Free Course
 1. [Free LLM Course](https://github.com/project303/Having-Fun-with-NLP/blob/main/free-gen-ai-course.md) - Free LLM Courses
 
+## Youtube Video untuk belajar LLM
+1. [Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=PpwMH9fRVlZiqqa4) - Andrej Karpathy
+2. [Attention Is All You Need](https://youtu.be/iDulhoQ2pro?si=oSzctiHlSrBM2Rwy) - Yannic Kilcher
+
+3. [Free LLM Course](https://github.com/project303/Having-Fun-with-NLP/blob/main/free-gen-ai-course.md) - Free LLM Courses
+
 
