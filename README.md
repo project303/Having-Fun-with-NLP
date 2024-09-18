@@ -38,7 +38,8 @@ Link presentasi:
 ## Youtube Video untuk belajar LLM
 1. [Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=PpwMH9fRVlZiqqa4) - Andrej Karpathy
 2. [Attention Is All You Need](https://youtu.be/iDulhoQ2pro?si=oSzctiHlSrBM2Rwy) - Yannic Kilcher
+3. [Stanford CS224N NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) - Standford Online
+4. [Non-Technical Intro to Generative AI](https://youtu.be/y4SLh1cpap4?si=Y6bQMvuGXsI4T4r5) - freeCodeCamp.org
 
-3. [Free LLM Course](https://github.com/project303/Having-Fun-with-NLP/blob/main/free-gen-ai-course.md) - Free LLM Courses
 
 
