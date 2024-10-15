@@ -41,5 +41,34 @@ Link presentasi:
 3. [Stanford CS224N NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) - Standford Online
 4. [Non-Technical Intro to Generative AI](https://youtu.be/y4SLh1cpap4?si=Y6bQMvuGXsI4T4r5) - freeCodeCamp.org
 
+## Awesome NLP and LLM Dataseet
+1. [LLM DataHub](https://github.com/Zjh-819/LLMDataHub) 
+Datasets for LLM training.
+
+2. [Awesome LLMs Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets)
+LLM Datasets and research papers
+
+3. [LLM Datasets](https://github.com/mlabonne/llm-datasets)
+High-quality datasets, tools, and concepts for LLM fine-tuning
+
+4. [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+This list of topic-centric public data sources is of high quality.
+
+5. [NLP Datasets](https://github.com/niderhoff/nlp-datasets)
+Alphabetical list of free/public domain datasets with text data for use in NLP.
+
+6. [Awesome Dataset Tools](https://github.com/jsbroks/awesome-dataset-tools)
+A curated list of awesome dataset tools.
+
+7. [Awesome time series database](https://github.com/xephonhq/awesome-time-series-database)
+A curated list of time series databases.
+
+8. [Awesome Cybersecurity Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets)
+A curated list of amazingly awesome Cybersecurity datasets.
+
+9. [Awesome Robotics Datasets](https://github.com/mint-lab/awesome-robotics-datasets)
+Robotics Dataset Collections.
+
+
 
 
